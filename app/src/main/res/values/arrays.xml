@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="labels">
+        <item>@string/defaultvalue</item>
+        <item>@string/brownie</item>
+        <item>@string/yellow</item>
+        <item>@string/cheese</item>
+    </array>
+    <array name="values">
+        <item>@string/defaultvalue</item>
+        <item>@string/brownie</item>
+        <item>@string/yellow</item>
+        <item>@string/cheese</item>
+    </array>
+</resources>

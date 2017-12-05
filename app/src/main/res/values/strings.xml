@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">BakeryApp</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="defaultvalue">Nutella Pie</string>
+    <string name="title">Favorite Recipe</string>
+    <string name="nullvalue">Null</string>
+    <string name="widget">widget</string>
+    <string name="brownie">Brownies</string>
+    <string name="yellow">Yellow Cake</string>
+    <string name="cheese">Cheese Cake</string>
+    <string name="next">Next</string>
+    <string name="prev">Previous</string>
+    <string name="recIng">Recipe Ingredients</string>
+    <string name="no">No Internet Connectivity</string>
+</resources>
